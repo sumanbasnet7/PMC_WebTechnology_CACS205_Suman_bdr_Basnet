@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Suman Basnet (@sumanbasnet7)  
+# 👋 Hi, I’m Suman Bahadur Basnet (@sumanbasnet7)  
 - 👀 I’m interested in **Web Development, Frontend Design, and Programming**  
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and GitHub for Web Technology (CACS205)**  
 - 💞️ I’m looking to collaborate on **open-source web projects and student coding groups**  
