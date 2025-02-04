@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **open-source web projects and student coding groups**  
 - 📫 How to reach me: **[Email]() | [GitHub](https://github.com/sumanbasnet7)**  
 - 😄 Pronouns: **He/Him**
-- Roll No: 66 
+- **📌 Roll No:** **66** 
 - ⚡ Fun fact: **I love building websites and experimenting with new web technologies!** 🚀  
 
 ## 📌 My Web Technology (CACS205) Repository:
