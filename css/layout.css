@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+    color: aliceblue;
+}
+
+#nav {
+    background-color: cadetblue;
+    text-align: left;
+    padding: 10px;
+    color: aliceblue;
+}
+
+#left {
+    background-color: aquamarine;
+    width: 20%;
+}
+
+.content {
+    float: left;
+    text-align: center;
+    height: 500px;
+    color: aliceblue;
+}
+
+#main {
+    width: 80%;
+    background-color: burlywood;
+}
+
+#footer {
+    clear: both;
+    background-color: brown;
+    text-align: left;
+    padding: 10px;
+    color: aliceblue;
+}
