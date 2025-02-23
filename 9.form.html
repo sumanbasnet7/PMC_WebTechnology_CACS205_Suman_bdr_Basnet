@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+
+    <form action="" method="get">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" placeholder="Enter Name">
+        <br/>
+        <label for="usernmae">Username</label>
+        <input type="text" name="username" placeholder="Enter UserName">
+        <br/>
+        <label for="password">Passsword</label>
+        <input type="password" name="password" placeholder="Enter Passsword">
+        <br/>
+        <label for="phone">Phone</label>
+        <input type="number" name="phone" placeholder="Enter Phone">
+        <br/>
+        <label for="country">Country</label>
+       <select name="" id="">
+        <option value="">Select Country</option>
+        <optgroup label="Asia">
+           
+            <option value="nepal">Nepal</option>
+            <option value="nepal">South Africa</option>
+
+        </optgroup>
+        <optgroup label="Europe">
+           
+            <option value="finland">Finland</option>
+            <option value="malta">Malta</option>
+
+        </optgroup>
+       </select>
+        <br/>
+        <label for="gender">Gender</label>
+        <input type="radio" name="gender" value="male">Male
+        <input type="radio" name="gender" value="female">Female
+        <br>
+        <label for="games">Games</label>
+        <input type="checkbox" name="games[]" value="Football">Football
+        <input type="checkbox" name="games[]" value="Cricket">Cricket
+        <br>
+        <label for="file">Upload</label>
+        <input type="file">
+        <br>
+        <label for="feedback">Feedback</label>
+        <textarea name="" id="" cols="50" rows="5"></textarea><br>
+        <input type="checkbox" name="" value="Cricket">I accept the terms and conditions
+        <input type="submit" name="submit" value="Register">
+        <input type="reset" value="clear">
+    </form>
+    
+</body>
+</html>
