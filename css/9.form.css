@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+fieldset {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #15d42e;
+    border-radius: 5px;
+}
+
+fieldset legend {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%; 
+}
+
+
+.form-group {
+    border-bottom: 1px solid rgb(21, 212, 46);
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.form-group label {
+    width: 120px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 60%;
+    padding: 5px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group input[type=radio],
+.form-group input[type=checkbox] {
+    width: auto;
+    margin-right: 5px;
+}
+
+.form-group textarea {
+    width: 100%;
+    resize: vertical;
+}
+
+.form-group input[type=submit], 
+.form-group input[type=reset] {
+    width: 120px; 
+    height: 40px;  
+    padding: 10px;
+    font-size: 46px; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.success {
+    background-color: rgb(11, 110, 77);
+    color: white;
+}
+
+.danger {
+    background-color: red;
+    color: white;
+}
+
+.success:hover {
+    background-color: darkgreen;
+}
+
+.danger:hover {
+    background-color: darkred;
+}
+
+.form-group input[type=submit]:last-child,
+.form-group input[type=reset]:last-child {
+    background-color: blue;
+}

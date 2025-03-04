@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul li {
+
+    display: inline-block;
+    background-color: aqua;
+    list-style: none;
+    text-align: center;
+    width: 10%;
+    border: 1px solid black;
+
+}
+
+ul li a {
+
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+
+ul li:hover {
+    background-color: brown;
+}

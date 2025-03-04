@@ -1,0 +1,41 @@
+h1 {
+
+    position: relative;
+    left: 100px;
+}
+
+img {
+    position: relative;
+    left: 500px;
+    background-color: aqua;
+}
+
+.abs {
+
+    position: absolute;
+    left: 711px;
+    top: 30px;
+}
+
+.btn {
+
+    position: fixed;
+        right: 20px; 
+        bottom: 20px; 
+        cursor: pointer;
+}
+
+.menu {
+    position: sticky;
+    top: 0;
+    background: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+}
